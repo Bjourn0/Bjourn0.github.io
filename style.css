@@ -23,12 +23,28 @@
 
 .main{
     margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 footer{
-    background: #D42C2D;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 3px;
+    color: #D42C2D;
+    background-color: black;
+}
+
+footer a {
+    float: none;
+    color:#D42C2D;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
 }
 
 body{
     background-color: #ECD482;
 }
+    
