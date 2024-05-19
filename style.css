@@ -10,15 +10,15 @@
 .navbar a{
     float: left;
     display: block;
-    color: #D42C2D;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 .navbar a:hover{
-    background: #FEDA07;
-    color: #774239;
+    background: #D42C2D;
+    color: black;
 }
 
 .main{
@@ -32,19 +32,19 @@ footer{
     width: 100%;
     text-align: center;
     padding: 3px;
-    color: #D42C2D;
+    color: white;
     background-color: black;
 }
 
 footer a {
     float: none;
-    color:#D42C2D;
+    color: white;
     text-align: center;
     padding: 10px 10px;
     text-decoration: none;
 }
 
 body{
-    background-color: #ECD482;
+    background-color: white;
 }
     
